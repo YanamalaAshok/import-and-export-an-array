@@ -1,0 +1,3 @@
+const array = require("./sample.js");
+
+console.log(array);
